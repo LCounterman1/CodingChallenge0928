@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\GoldBadge\CondingChallenge09_28\ClassLibrary09_28\bin\Debug\ClassLibrary09_28.dll
+C:\ElevenFiftyProjects\GoldBadge\CondingChallenge09_28\ClassLibrary09_28\bin\Debug\ClassLibrary09_28.pdb
+C:\ElevenFiftyProjects\GoldBadge\CondingChallenge09_28\ClassLibrary09_28\obj\Debug\ClassLibrary09_28.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\CondingChallenge09_28\ClassLibrary09_28\obj\Debug\ClassLibrary09_28.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\CondingChallenge09_28\ClassLibrary09_28\obj\Debug\ClassLibrary09_28.dll
+C:\ElevenFiftyProjects\GoldBadge\CondingChallenge09_28\ClassLibrary09_28\obj\Debug\ClassLibrary09_28.pdb
